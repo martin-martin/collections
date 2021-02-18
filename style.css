@@ -1,4 +1,10 @@
 body {
+    font-family: 'Truculenta', sans-serif;
     max-width: 800px;
     margin: auto;
+    font-size: 1.5em;
+}
+
+h1 {
+    font-size: 3em;
 }
